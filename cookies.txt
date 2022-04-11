@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.marketifythemes.com	TRUE	/	FALSE	1999999999	__cfduid	dd63a24e55077cf1e2ea501e76f1e928a1611088223
+marketifythemes.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
